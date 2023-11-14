@@ -50,7 +50,7 @@
 		<div class="row" style="margin-top: 3%">
 			<div class="col-md-12" align="center">
 				<button type="button" class="btn btn-primary" id="id_btn_filtra">FILTRA</button>
-				<button type="button" class="btn btn-primary" id="id_btn_reporte">PDF</button>
+				<button type="button" class="btn btn-danger" id="id_btn_reporte">PDF</button>
 			</div>
 		</div>
 		<div class="row" style="margin-top: 3%">
